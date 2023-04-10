@@ -1,0 +1,12 @@
+/ tem q baixr o xamp e ativar o APACHE e o mysql
+// caso já tenha outra porta apache no windons 10 aí é só trocar de porta 
+//de preferencia numa aba anonima entrar no navegador:http://localhost/phpmyadmin 
+//criar os dados do banco
+
+//salvar os arquivos HTML e PHP na pasta htdocs dentro do XAMP
+
+
+// em localhost se o arquivo estiver como index ele abre direto! mas caso queira testar a conexao altera o nome do index.html
+
+//se for pra receber varchar tem q ser aspas simples(nos values do insert do cadastro PHP )
+
